@@ -1,0 +1,44 @@
+.jumbotron {
+	margin-bottom: 0px;
+	/* border-left: 1px solid #000; <-- Maybe later  */ 
+}
+
+footer {
+	width:100%;
+	border:1px solid #000;
+	padding:100px;
+}
+.product_image{
+	display:block;
+	width:100%;
+	border:1px solid #000;
+	box-shadow: 2px 2px #ccc;
+}
+.img_thumb{
+	height:90px;
+	width:90px;
+	float:left;
+	border:1px solid #000;
+	padding:7px 3px;
+}
+.img_thumb2{
+	height:40px;
+	width:40px;
+	float:left;
+	border:1px solid #000;
+	padding:7px 3px;
+}
+
+h3.products {
+	margin-top:30px;
+}
+
+.search_bar{
+	padding:0px;
+	border-top:1px solid #000;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+
+	
