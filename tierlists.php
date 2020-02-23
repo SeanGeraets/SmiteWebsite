@@ -11,6 +11,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in SS tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					SS
 				</div>
@@ -19,6 +20,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in S+ tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					S+
 				</div>
@@ -30,6 +32,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in S tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					S
 				</div>
@@ -50,6 +53,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in A+ tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					A+
 				</div>
@@ -80,6 +84,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in A tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					A
 				</div>
@@ -133,6 +138,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in B+ tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					B+
 				</div>
@@ -153,6 +159,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in B tier-->
 				<div class="col-3 text-center"style="border: 1px solid #000">
 					B
 				</div>
@@ -163,6 +170,7 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in C tier-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					C
 				</div>
@@ -172,6 +180,8 @@
 				</div>
 			</div>
 			<div class="row" >
+				<!--The gods in D tier. The worst gods available.-->
+				<!--These gods shouldnt exist in the game-->
 				<div class="col-3 text-center" style="border: 1px solid #000">
 					D
 				</div>
@@ -180,6 +190,7 @@
 				</div>
 			</div>
 			<div class="row">.
+			<!--Legend explaining each tier-->
 				<div class="col-sm text-center">
 					Legend
 				</div>
