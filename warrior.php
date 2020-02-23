@@ -104,7 +104,7 @@
 						<input type="hidden" name="name" value="Odin">
 						<button type="submit" name="submit" value="" class="btn btn-secondary btn-sm">Odin</button>
 					</form><br>
-					<!--Osiris-->
+					<!--Vamana-->
 					<img src="images/gods/Vamana.jpg" alt="vamana">
 					<form method="post" action="god_page_builder.php">
 						<input type="hidden" name="name" value="Vamana">
